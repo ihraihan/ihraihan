@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ihraihan
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently learning Flutter & Android Dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me iftikharhossain500@gmail.com
 
